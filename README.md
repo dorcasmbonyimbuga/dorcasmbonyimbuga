@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @dorcasmbonyimbuga
-- 👀 I’m interested with programmation 
-- 🌱 I’m currently learning C#
-I'm a backend developer, I use PHP 
-- 💞️ I’m looking to collaborate on C# and PHP
+- 👀 I’m a developper
 - 📫 How to reach me 0971248686
 
 <!---
